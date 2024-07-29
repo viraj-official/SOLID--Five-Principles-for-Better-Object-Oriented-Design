@@ -1,4 +1,4 @@
-﻿### SOLID: Five Principles for Better Object-Oriented Design
+﻿# SOLID: Five Principles for Better Object-Oriented Design
 
 Creating reliable, easy-to-maintain software is a top priority for developers. SOLID principles provide a clear path to achieving this. SOLID stands for five key principles that improve object-oriented design:
 
